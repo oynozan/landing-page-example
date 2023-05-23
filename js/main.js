@@ -1,0 +1,1 @@
+const firstWidth = $(window).width();
